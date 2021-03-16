@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: NeJe
+title: Jeje Neje
+subtitle: Dežđ Curi
 email: mihael.katalenic@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Stranica koja prikazuje sve bitne i nebitne informacije i projekte kojima se bavim.
-twitter_username: username
+#twitter_username: username
 github_username: mkatalenic
 minimal_mistakes_skin: plum
 search: false
@@ -58,7 +59,7 @@ plugins:
 author:
   name   : "Mihael Katalenić"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Student diplomskog sveučilišnog studija strojarstva."
+  bio    : "Student diplomskog sveučilišnog studija strojarstva Tehničkog fakulteta Sveučilišta u Rijeci."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
